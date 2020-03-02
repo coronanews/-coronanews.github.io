@@ -1,1 +1,1 @@
-# -coronanews.github.io
+# coronanews.github.io
